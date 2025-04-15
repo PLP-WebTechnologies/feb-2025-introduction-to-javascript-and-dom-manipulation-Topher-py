@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+  }
+  #message {
+    font-size: 24px;
+    color: rgb(25, 25, 99);
+  }
+  #box {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    margin: 20px auto;
+    transition: all 0.3s ease;
+  }
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
